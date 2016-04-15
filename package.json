@@ -1,0 +1,27 @@
+{
+  "name": "node-sass-glob",
+  "version": "1.0.0",
+  "description": "A node-sass importer adding glob support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jam3/node-sass-glob.git"
+  },
+  "keywords": [
+    "node",
+    "sass",
+    "glob"
+  ],
+  "author": "Nick Poisson <nick@jam3.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jam3/node-sass-glob/issues"
+  },
+  "homepage": "https://github.com/Jam3/node-sass-glob#readme",
+  "dependencies": {
+    "glob": "^7.0.3"
+  }
+}
