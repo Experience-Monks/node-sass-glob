@@ -9,7 +9,7 @@ module.exports = function(url, parent, done) {
       var contents = files.map(function(cur) {
         return fs.readFileSync(cur,'utf8');
       });
-      done({content: contents.join('\n')});
+      done({contents: contents.join('\n')});
     });
   } else {
     done({file: url});
