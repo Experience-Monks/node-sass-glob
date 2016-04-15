@@ -14,4 +14,4 @@ module.exports = function(url, parent, done) {
   } else {
     done({file: url});
   }
-}
+};

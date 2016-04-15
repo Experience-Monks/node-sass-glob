@@ -13,7 +13,8 @@
   "keywords": [
     "node",
     "sass",
-    "glob"
+    "glob",
+    "importer"
   ],
   "author": "Nick Poisson <nick@jam3.com>",
   "license": "MIT",
