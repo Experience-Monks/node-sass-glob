@@ -1,6 +1,6 @@
 {
   "name": "node-sass-glob",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A node-sass importer adding glob support",
   "main": "index.js",
   "scripts": {
