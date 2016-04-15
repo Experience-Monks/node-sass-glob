@@ -32,4 +32,4 @@ In your scss files, simply use globs in your import statements. This will only w
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/njam3/video-element/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/Jam3/node-sass-glob/blob/master/LICENSE.md) for details.
