@@ -23,7 +23,7 @@ sass.render({
   ...options
 }, function (err, output) {});
 ```
-In your scss files, simply use globs in your import statements. This will only work for your main scss file.
+In your scss files, simply use globs in your import statements.
 
 ```bash
 @import 'styles/**/*.scss';
